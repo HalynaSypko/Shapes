@@ -1,3 +1,5 @@
+package shape;
+
 public class Quadrangle1 extends  GShapes {
     public double side1;
     public double side2;

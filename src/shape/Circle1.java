@@ -1,3 +1,5 @@
+package shape;
+
 public class Circle1 extends GShapes {
     public double radius;
     final double pi = Math.PI;

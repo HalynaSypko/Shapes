@@ -1,0 +1,7 @@
+package shapes;
+
+public class Square extends Quadrangle {
+    public Square(double side1, double side2, double angle) {
+        super(side1, side2, angle);
+    }
+}

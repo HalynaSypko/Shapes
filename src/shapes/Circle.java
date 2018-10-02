@@ -1,10 +1,13 @@
-public class Circle1 extends GShapes {
+package shapes;
+
+public class Circle extends GShapes {
     public double radius;
     final double pi = Math.PI;
 
-    public  Circle1 (double radius){
+    public Circle(double radius) {
         this.radius = radius;
     }
+
     @Override
     public double area() {
         return pi * Math.pow(radius, 2);

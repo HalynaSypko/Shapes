@@ -1,5 +1,3 @@
-package shape;
-
 public class Triangle1 extends GShapes {
     public double side3;
     public double side4;

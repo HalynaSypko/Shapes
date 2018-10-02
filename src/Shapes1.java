@@ -1,5 +1,3 @@
-package shape;
-
 public class Shapes1 {
     public static void main(String[] args) {
         Rectangle1 rectangle = new Rectangle1(3.0, 4.0, 90.0);
